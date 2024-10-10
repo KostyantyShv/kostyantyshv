@@ -28,7 +28,7 @@
   
   <br/>
 
-   ## ⚙️ My projects:
+   ## 🔗 My projects:
    <ul style="font-size: 20px">
     <li><a href="https://github.com/KostyantyShv/KHPricesBE">KHPricesBE</a></li>
     <li><a href="https://github.com/KostyantyShv/KHPricesFE">KHPricesFE</a></li>
