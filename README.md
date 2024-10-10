@@ -4,8 +4,8 @@
 </a>
 <br/>
 
-<h2 align="center" style="text-align: center;">Hi 👋, I'm Kostyantyn</h2>
-<h3 align="center" style="text-align: center;">A Passionate Front-end Developer Who Loves To Code</h3>
+<h2 align="center">Hi 👋, I'm Kostyantyn</h2>
+<h3 align="center">A Passionate Front-end Developer Who Loves To Code</h3>
 
 
 ## ✅ Developer experience:
@@ -18,6 +18,8 @@
   <p>🔷 2+ years experience with AWS</p>
 
   <br/>
+
+  ## ⚙️ Languages and tools:
   <div align="left">
       <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,react,nextjs,redux" /><br>
       <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgresql,mysql,mongodb,redis,aws" /><br>
