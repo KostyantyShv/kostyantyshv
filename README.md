@@ -4,8 +4,8 @@
 </a>
 <br/>
 
-<h2 style="text-align: center;">Hi 👋, I'm Kostyantyn</h2>
-<h3 style="text-align: center;">A Passionate Front-end Developer Who Loves To Code</h3>
+<h2 align="center" style="text-align: center;">Hi 👋, I'm Kostyantyn</h2>
+<h3 align="center" style="text-align: center;">A Passionate Front-end Developer Who Loves To Code</h3>
 
 
 ## ✅ Developer experience:
