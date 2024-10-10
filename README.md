@@ -25,6 +25,8 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgresql,mysql,mongodb,redis,aws" /><br>
     
   </div>
+  
+  <br/>
 
 ## 🔥 Github Stats
 
