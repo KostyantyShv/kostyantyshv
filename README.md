@@ -5,7 +5,7 @@
 <br/>
 
 <h2 align="center">Hi 👋, I'm Kostyantyn</h2>
-<h3 align="center">A Passionate Front-end Developer Who Loves To Code</h3>
+<h3 align="center">A Passionate Full-stack Developer Who Loves To Code</h3>
 
 
 ## ✅ Developer experience:
