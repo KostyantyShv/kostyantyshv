@@ -3,7 +3,7 @@
   <img src="https://github.com/KostyantyShv/kostyantyshv/blob/main/assets/header_gif.gif" alt="Header gif" width="100%" style="height:auto"/>
 </a>
 <br/>
-## ✅Developer experience:
+<h3>✅ Developer experience:</h3>
 <br/>
 <p>🔷 4+ years of experience with React (Redux, Thunk, Saga).</p>
 <p>🔷 3+ years of experience with Next.JS,</p>
