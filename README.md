@@ -28,6 +28,17 @@
   
   <br/>
 
+   ## ⚙️ My projects:
+   <ul style="font-size: 20px">
+    <li><a href="https://github.com/KostyantyShv/KHPricesBE">KHPricesBE</a></li>
+    <li><a href="https://github.com/KostyantyShv/KHPricesFE">KHPricesFE</a></li>
+    <li><a href="https://github.com/KostyantyShv/WebsterBE">WebsterBE</a></li>
+    <li><a href="https://github.com/KostyantyShv/WebsterFE">WebsterFE</a></li>
+    <li><a href="https://github.com/KostyantyShv/Ticketie">Ticketie</a></li>
+    <li><a href="https://github.com/kylebolt/crewhr-frontend">crewhr-frontend</a></li>
+    <li><a href="https://github.com/kylebolt/crewhr-backend">crewhr-backend</a></li>
+   </ul>
+
 ## 🔥 Github Stats
 
   <a href="https://github.com/KostyantyShv"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=KostyantyShv&theme=radical&title_color=ff3068?"></a>
