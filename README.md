@@ -39,6 +39,8 @@
     <li><a href="https://github.com/kylebolt/crewhr-backend">crewhr-backend</a></li>
    </ul>
 
+   <br/>
+
 ## 🔥 Github Stats
 
   <a href="https://github.com/KostyantyShv"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=KostyantyShv&theme=radical&title_color=ff3068?"></a>
