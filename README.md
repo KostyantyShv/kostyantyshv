@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-<h3>✅ Developer experience:</h3>
+## ✅ Developer experience:
 
 <br/>
 <p>🔷 4+ years of experience with React (Redux, Thunk, Saga).</p>
@@ -14,9 +14,13 @@
 <p>🔷 2+ years experience with AWS</p>
 
 <br/>
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,react,nextjs,redux" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgresql,mysql,mongodb,redis,aws" /><br>
    
 </div>
+
+## 🔥 Github Stats
+
+  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=KostyantyShv&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=KostyantyShv&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
